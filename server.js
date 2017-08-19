@@ -17,7 +17,7 @@ app.get('/article-two', function (req, res){
    res.send('Article two files will be served here'); 
 });
 
-app.get('/article-thee', function (req, res){
+app.get('/article-three', function (req, res){
    res.send('Article three files will be served here'); 
 });
 
