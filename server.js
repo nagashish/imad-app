@@ -12,19 +12,7 @@ var articleOne ={
     date:'19-Aug-17',
     content:` 
             <p>
-              This is the content of my first article.This is the content of my first article.This is the content of my first article.
-              This is the content of my first article.This is the content of my first article.This is the content of my first article.
-              This is the content of my first article.This is the content of my first article.This is the content of my first article.
-            </p>
-            <p>
-              This is the content of my first article.This is the content of my first article.This is the content of my first article.
-              This is the content of my first article.This is the content of my first article.This is the content of my first article.
-              This is the content of my first article.This is the content of my first article.This is the content of my first article.
-            </p>
-            <p>
-              This is the content of my first article.This is the content of my first article.This is the content of my first article.
-              This is the content of my first article.This is the content of my first article.This is the content of my first article.
-              This is the content of my first article.This is the content of my first article.This is the content of my first article.
+              This is the content of my first article.
             </p>`
 };
 
