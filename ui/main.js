@@ -26,3 +26,16 @@ var marginLeft = 0;
           interval = setInterval(moveRight, 10);
           
     };
+    function moveLeft(){
+        
+        if(marginLeft==600){
+            marginLeft -= 1;
+            img.style.marginRight =  marginRight + "px";
+        }
+       else
+          {
+              clearInterval(interval);
+          }
+    }
+          interval = setInterval(moveLeft, 10);
+          
