@@ -2,7 +2,7 @@ console.log('Loaded!');
 
 //Move the image
 var img = document.getElementById("madi");
-var marginLeft = 0;
+var marginRight = 0;
  var interval; //Declaring variable globally so that i can use it outside the function.
  
     function moveLeftt(){
