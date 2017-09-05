@@ -5,11 +5,11 @@ var img = document.getElementById("madi");
 var marginLeft = 0;
  var interval; //Declaring variable globally so that i can use it outside the function.
  
-    function moveRight(){
+    function moveLeftt(){
         
-        if(marginLeft<600){
-            marginLeft += 1;
-            img.style.marginLeft =  marginLeft + "px";
+        if(marginRight<600){
+            marginRight += 1;
+            img.style.marginRight =  marginRight + "px";
         }
        else
           {
@@ -19,6 +19,6 @@ var marginLeft = 0;
 
     img.onclick = function() {
         
-          interval = setInterval(moveRight, 10);
+          interval = setInterval(moveLeft, 10);
           
     };
