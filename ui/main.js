@@ -5,7 +5,7 @@ var img = document.getElementById("madi");
 var marginRight = 0;
  var interval; //Declaring variable globally so that i can use it outside the function.
  
-    function moveLeftt(){
+    function moveLeft(){
         
         if(marginRight<600){
             marginRight += 1;
